@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1069792230547",
+    "project_id": "adinda-marketplace",
+    "storage_bucket": "adinda-marketplace.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069792230547:android:908db576d742fb558ce166",
+        "android_client_info": {
+          "package_name": "com.secondloop.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0hPCeN7pnJwgw_lIFSmEyySh07FLUqns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
